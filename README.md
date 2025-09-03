@@ -14,6 +14,8 @@ extensions:
 - c++ (for syntax completion and formatter)
 
 C:\Users\yaple\OneDrive\Documents\NetBeansProjects\New folder\OOP\src\main\java\com\oop\oop
+follow this file path after cloning 
+
 You must clone the whole file, if not you won't be able to use the following files.
 for c++ oop, by following the path given above you will be able to see the example.cpp as well as output folder
 
